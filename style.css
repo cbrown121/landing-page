@@ -135,7 +135,7 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 0 550px 0 550px;
+    padding: 0 250px 0 250px;
 }
 
 .name-quote {
@@ -145,11 +145,11 @@ a {
     display: flex;
     justify-content: end;
     align-items: center;
-    padding-right: 550px;
+    padding-right: 250px;
 }
 
 .section-four {
-    margin: 100px 500px 100px 500px;
+    margin: 100px 250px 100px 250px;
     background-color: #3B82F6;
     padding: 20px;
     border-radius: 20px;
