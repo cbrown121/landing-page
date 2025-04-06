@@ -118,3 +118,31 @@ a {
     justify-content: center;
     align-items: center;
 }
+
+.section-three {
+    background-color: #E5E7EB;
+    display: flex;
+    padding: 80px 100px 40px 100px;
+    flex-direction: column;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 300;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 550px 0 550px;
+}
+
+.name-quote {
+    font-size: 24px;
+    color: #1f2937;
+    font-weight: 900;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding-right: 550px;
+}
